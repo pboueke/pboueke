@@ -11,4 +11,4 @@ My name is **Pedro Boueke**. I'm a software engineer. In this page you'll find s
 
 &nbsp;
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pboueke&theme=gruvbox)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pboueke&theme=gruvbox)](https://git.io/streak-stats)-->
