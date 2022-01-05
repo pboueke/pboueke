@@ -7,7 +7,7 @@
 
 
 
-My name is **Pedro Boueke**. I'm a software engineer. In this page you'll find some of the stuff I've been working on. You can contact me with my email, `phboueke at gmail.com`, or at my [linkedin profile](https://www.linkedin.com/in/pedro-hollanda-boueke-660413b6/). 
+My name is **Pedro Boueke**. I'm a software engineer. In this page you'll find some of the stuff I've been working on. You can contact me with my email, `phboueke at gmail.com`.
 
 &nbsp;
 
