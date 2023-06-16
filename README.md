@@ -3,7 +3,6 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/pboueke/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/pboueke/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pboueke.github.io/b/)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://manjaro.org/)
 
 
 
